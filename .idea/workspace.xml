@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb2c3532-8f5f-42e6-bb23-020ac92c481e" name="Default" comment="Test commit today1">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/practice/Tretja/Z2_4/DAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/practice/Tretja/Z2_4/Task.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/practice/Tretja/Z2_4/TaskDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/practice/Tretja/Z2_4/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/practice/Tretja/Z2_4/UserDAO.java" />
+    <list default="true" id="cb2c3532-8f5f-42e6-bb23-020ac92c481e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Izuchenir" afterPath="$PROJECT_DIR$/src/Izuchenir" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HomeWork/Module2/Task2_1.java" afterPath="$PROJECT_DIR$/src/HomeWork/Module2/Task2_1.java" />
     </list>
     <list id="c5801772-df3a-4a31-8939-cabac2ce3c42" name="New changelist" comment="" />
     <ignored path="JavaCourGoIT.iws" />
@@ -65,12 +61,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Task.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/practice/Tretja/Z2_4/Task.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task2_1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HomeWork/Module2/Task2_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+              <folding>
+                <element signature="method#calculateSumInt#0;class#Task2_1#0" expanded="false" />
+                <element signature="method#calculateSumDouble#0;class#Task2_1#0" expanded="false" />
+                <element signature="method#minDouble#0;class#Task2_1#0" expanded="false" />
+                <element signature="method#maxInt#0;class#Task2_1#0" expanded="false" />
+                <element signature="method#maxDouble#0;class#Task2_1#0" expanded="false" />
+                <element signature="method#maxPositiveInt#0;class#Task2_1#0" expanded="false" />
+                <element signature="method#multiplicationInt#0;class#Task2_1#0" expanded="false" />
+                <element signature="method#multiplicationDouble#0;class#Task2_1#0" expanded="false" />
+                <element signature="method#modulusInt#0;class#Task2_1#0" expanded="false" />
+                <element signature="method#modulusDouble#0;class#Task2_1#0" expanded="false" />
+                <element signature="method#secondLargestInt#0;class#Task2_1#0" expanded="false" />
+                <element signature="method#secondLargestDouble#0;class#Task2_1#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -133,7 +152,6 @@
         <option value="$PROJECT_DIR$/src/HomeWork/Module1/ThirdClass.java" />
         <option value="$PROJECT_DIR$/src/HomeWork/Module2/Task1.java" />
         <option value="$PROJECT_DIR$/src/HomeWork/Module2/Task2.java" />
-        <option value="$PROJECT_DIR$/src/HomeWork/Module2/Task2_1.java" />
         <option value="$PROJECT_DIR$/src/Praktika/Main.java" />
         <option value="$PROJECT_DIR$/src/Praktika/Pervaya/Converter.java" />
         <option value="$PROJECT_DIR$/src/Izuchenir/Else_If.java" />
@@ -163,6 +181,7 @@
         <option value="$PROJECT_DIR$/src/practice/Tretja/Z2_4/User.java" />
         <option value="$PROJECT_DIR$/src/practice/Tretja/Z2_4/Task.java" />
         <option value="$PROJECT_DIR$/src/practice/Tretja/Z2_4/TaskDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork/Module2/Task2_1.java" />
       </list>
     </option>
   </component>
@@ -306,6 +325,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Pervaya" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaCourGoIT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaCourGoIT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Module2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -754,7 +795,14 @@
       <option name="project" value="LOCAL" />
       <updated>1472670269549</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test commit today1">
+      <created>1473101497896</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1473101497896</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -768,7 +816,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -782,7 +830,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17453505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17453505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -854,13 +902,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/HomeWork/Module2/Task2_1.java</url>
-          <line>99</line>
+          <line>100</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/HomeWork/Module2/Task2_1.java</url>
-          <line>85</line>
+          <line>86</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
@@ -1058,28 +1106,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HomeWork/Module2/Task2_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="68" column="53" selection-start-line="68" selection-start-column="53" selection-end-line="68" selection-end-column="53" />
-          <folding>
-            <element signature="method#calculateSumInt#0;class#Task2_1#0" expanded="false" />
-            <element signature="method#calculateSumDouble#0;class#Task2_1#0" expanded="false" />
-            <element signature="method#minInt#0;class#Task2_1#0" expanded="false" />
-            <element signature="method#minDouble#0;class#Task2_1#0" expanded="false" />
-            <element signature="method#maxInt#0;class#Task2_1#0" expanded="false" />
-            <element signature="method#maxDouble#0;class#Task2_1#0" expanded="false" />
-            <element signature="method#maxPositiveInt#0;class#Task2_1#0" expanded="false" />
-            <element signature="method#multiplicationInt#0;class#Task2_1#0" expanded="false" />
-            <element signature="method#multiplicationDouble#0;class#Task2_1#0" expanded="false" />
-            <element signature="method#modulusInt#0;class#Task2_1#0" expanded="false" />
-            <element signature="method#modulusDouble#0;class#Task2_1#0" expanded="false" />
-            <element signature="method#secondLargestInt#0;class#Task2_1#0" expanded="false" />
-            <element signature="method#secondLargestDouble#0;class#Task2_1#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oractice/Tretya/Calc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1199,9 +1225,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/Tretja/Z2_4/Task.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork/Module2/Task2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding>
+            <element signature="method#calculateSumInt#0;class#Task2_1#0" expanded="false" />
+            <element signature="method#calculateSumDouble#0;class#Task2_1#0" expanded="false" />
+            <element signature="method#minDouble#0;class#Task2_1#0" expanded="false" />
+            <element signature="method#maxInt#0;class#Task2_1#0" expanded="false" />
+            <element signature="method#maxDouble#0;class#Task2_1#0" expanded="false" />
+            <element signature="method#maxPositiveInt#0;class#Task2_1#0" expanded="false" />
+            <element signature="method#multiplicationInt#0;class#Task2_1#0" expanded="false" />
+            <element signature="method#multiplicationDouble#0;class#Task2_1#0" expanded="false" />
+            <element signature="method#modulusInt#0;class#Task2_1#0" expanded="false" />
+            <element signature="method#modulusDouble#0;class#Task2_1#0" expanded="false" />
+            <element signature="method#secondLargestInt#0;class#Task2_1#0" expanded="false" />
+            <element signature="method#secondLargestDouble#0;class#Task2_1#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
