@@ -28,7 +28,6 @@ public class Task2_1 {
                 min = k;
                 }
             }
-        System.out.println();
         return min;}
 
     static double minDouble (double[] array1){
